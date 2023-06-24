@@ -46,3 +46,4 @@ client.on('messageCreate', async (message) => {
 });
 client.login(token);
 //# sourceMappingURL=index.js.map
+//your token will be on the dotenv
